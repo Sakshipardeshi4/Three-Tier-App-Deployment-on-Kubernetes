@@ -1,6 +1,8 @@
 Building a three-tier application on Kubernetes typically involves managing a Frontend (Web), a Backend (API), and a Database.
 
-Below is a comprehensive, "copy-paste" ready README.md file designed for a GitHub repository. It covers the architecture, prerequisites, and deployment steps.
+<p align="center">
+   <img src="https://github.com/Sakshipardeshi4/Three-Tier-App-Deployment-on-Kubernetes/blob/master/assets/image3tierk8s.png?raw=true">
+</p>
 
 Markdown
 # Three-Tier Web Application Deployment on Kubernetes
